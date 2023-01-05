@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AndreasRck
-- 👀 I’m interested in Data Science, Machine Learning, SmartHome (with openHAB), Python and DAX
+- 👀 I’m interested in Data Science, Machine Learning, SmartHome (with Home Assistant), Python and DAX
 - 🌱 I’m currently learning how to properly code in Python ;-)
 - 💞️ I’m looking to collaborate on all the above mentioned things
 
